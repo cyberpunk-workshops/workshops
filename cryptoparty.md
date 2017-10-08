@@ -107,6 +107,12 @@ Privnote.com
 
 # Dinge einrichten:
 
+Nun der praktische Teil, das tatsächliche installieren und benutzen von Verschlüsselung.
+
 * PGP-Email
   * Thunderbird
-* Android: Wire, Signal
+  * Enigmail
+  * evtl GPG4Win (wird von Enigmail automatisch mitinstalliert)
+* Android: Wire, Signal, Deltachat
+
+Zum Abschluss: Key-Signing-Party, trust all the fingerprints
