@@ -22,7 +22,7 @@ Es gibt keine Privatsphäre mehr, es gibt nur noch Verschlüsselung
 * Wir können aber versuchen, zu verschlüsseln, um zumindest direkte Kommunikation unlesbar zu machen
 * Verschlüsselung macht Überwachung teurer -> encrypt everything!
 
-# PGP - Was ist asymmetrische Verschlüsselung?
+## PGP - Was ist asymmetrische Verschlüsselung?
 
 Schlüsselpaar:
 * Öffentlicher Schlüssel: den brauchen andere, um Nachrichten an euch verschlüsseln zu können
@@ -41,10 +41,10 @@ Signieren
 * In Estland sind kryptographische Unterschriften rechtsgültig
 * Eine Signatur ist keine Verschlüsselung!
 
-# Encrypted Messengers
+## Der Kampf um das größte Netzwerk
 
 Netzwerkeffekte
-* Email hat fast jede*r - größter Netzwerkeffekt überhaupt
+* Email hat fast jede\*r - größter Netzwerkeffekt überhaupt
 * Bei anderen Netzwerken haben fast überall Monopole die Vorherrschaft; Facebook zB ist schwer zu verweigern
 * Damit gibt man Plattformen Macht; Facebook, Google/Alphabet, Microsoft, Apple und Amazon sind die Big 5, mit exorbitanter Machtkonzentration
 * Für Aktivistis ist es nicht nur ethisch schwierig, diese Monopolisierung zu unterstützen, es macht uns auch angreifbar für Zensur und Überwachung
@@ -54,6 +54,8 @@ Dezentralität
 * Beispiel: Email, Jabber
 * Dezentralität wirkt Monopolisierung entgegen
 * Die Kontrolle liegt bei dezentralen Diensten beim Admin des Servers
+
+## Messenger im Vergleich
 
 Whatsapp
 * ist mittlerweile end2end-encrypted
