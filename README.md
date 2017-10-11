@@ -58,6 +58,9 @@ Always include internet-political perspective, e.g.
 * Raubmordkopieren - culture wants to be free
   * Rechtliche Lage
   * Technische Tipps
+* Ticketfrei-bots
+  * How to use
+  * How to setup
 
 ## Sticker ideas
 
