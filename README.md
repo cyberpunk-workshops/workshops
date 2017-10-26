@@ -61,6 +61,7 @@ Always include internet-political perspective, e.g.
 * Ticketfrei-bots
   * How to use
   * How to setup
+* Cyberpunk-diy-Clothing
 
 ## Sticker ideas
 
