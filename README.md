@@ -26,6 +26,8 @@ Regular internal conferences to learn about social and political issues
 Issue Tracker about workshop topics
 
 Git Repositories for each workshop
+* add sources into that repo, so people who want to copy a workshop
+  can get informed and don't feel clueless
 
 Always include internet-political perspective, e.g.
 * Decentralization
