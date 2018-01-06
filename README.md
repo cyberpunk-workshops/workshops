@@ -2,15 +2,14 @@
 
 Spannungsfeld Herrschaft vs. Emanzipation durch Technologie
 
-Cyborgs: Menschen als durch Technologie bestimmt
-
-Cyberspace vs. Meatspace
+Technology against the binary
+* Cyborgs: Mensch vs Technologie
+* Lebensraum: Cyberspace vs. Meatspace
+* Queer: Intersectional cyberpunk vs. Nerd Pride!
 
 Tech Literacy als emanzipatorische Notwendigkeit.
 Ist notwendig für Aktivistis und hilft bei politischer Arbeit.
 Nerdism is privilege - each one teach one!
-
-Intersectional cyberpunk vs. Nerd Pride!
 
 Connect radical world view, cyberpunk aesthetics, and technological means
 
