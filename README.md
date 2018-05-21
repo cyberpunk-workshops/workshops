@@ -58,6 +58,7 @@ Always include internet-political perspective, e.g.
 * Freifunk and why it's important
 * Raubmordkopieren - culture wants to be free
   * Rechtliche Lage
+    * https://www.e-recht24.de/artikel/tauschboersen/7389-urheberrechtsverletzungen-in-internettauschboersen-abmahnungen-der-kanzlei-waldorf-frommer.html
   * Technische Tipps
 * Ticketfrei-bots
   * How to use
